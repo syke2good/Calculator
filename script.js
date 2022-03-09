@@ -1,0 +1,7 @@
+const numberButtons = document.querySelectorAll('[data-number]')
+const operationButtons = document.querySelectorAll('[data-operation]')
+const equalButton = document.querySelector ('[data-eqals]')
+const deleteButton = document.querySelector ('[data-delete]')
+const equalButton = document.querySelector ('[data-eqals]')
+const equalButton = document.querySelector ('[data-eqals]')
+const equalButton = document.querySelector ('[data-eqals]')
